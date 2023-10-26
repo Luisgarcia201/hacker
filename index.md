@@ -4,7 +4,7 @@ layout: default
 
 # This is Luis 
 
-# Something about myself is I love soccer. My favorite teams are Real Madrid and Inter Miami. Images have been published on my website.
+# Something about myself is I love soccer. My favorite teams are Real Madrid and Inter Miami. Images have been published on my website. I also like Marvel. My favorite marvel hero is Spider man.
 
 <img src="assets/images/real_madrid .png" alt="real_madrid">
 
