@@ -12,6 +12,8 @@ layout: default
 
 <img src="assets/images/Spider_man.jpeg" alt="Spider_man">
 
+<img src="assets/images/Spider_man_2.jpeg" alt="Spidey">
+
 
 
 
