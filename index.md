@@ -4,10 +4,13 @@ layout: default
 
 # This is Luis 
 
+# Something about myself is I love soccer. My favorite teams are Real Madrid and Inter Miami. Images have been published on my website.
+
 <img src="assets/images/real_madrid .png" alt="real_madrid">
 
-
 <img src="assets/images/inter_miami.png" alt="inter_miami">
+
+<img src="assets/images/Spider_man.jpeg" alt="Spider_man">
 
 
 
