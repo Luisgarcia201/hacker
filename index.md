@@ -7,6 +7,9 @@ layout: default
 <img src="assets/images/real_madrid .png" alt="real_madrid">
 
 
+<img src="assets/images/inter_miami.png" alt="inter_miami">
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
